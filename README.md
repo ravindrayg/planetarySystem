@@ -1,1 +1,1 @@
-# spring-boot-application-1
+# it is fun to learn about different planets
